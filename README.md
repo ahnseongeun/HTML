@@ -8,3 +8,8 @@
         - <a href="https://www.naver.com" target="_blank">은 새로운 페이지로 이동   
     - ul로 li 리스트 태그를 감싸는 행위를 그룸핑 한다고 한다.
     - ol로 감싸게되면 앞에 숫자가 붙는다.
+    - 웹 페이지 글자가 깨질 경우 인코딩 방법 지정 <meta charset="utf-8"
+    - head 태그는 웹페이지 정보, body는 웹페이지 내용.
+
+- DOCTYPE
+    - Document type declaration -> !DOCTYPE은 html5를 가르킨다.
