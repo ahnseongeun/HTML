@@ -4,8 +4,8 @@
 - 태그
     - strong은 언어 강조
     - h1은 제목
-    - a는 링크, ex) <a href= "www.naver.com">이게 링크를 나타내는 텍스트</a>
-        - <a href="https://www.naver.com" target="_blank">은 새로운 페이지로 이동   
+    - a는 링크, ex) <a href= "www.naver.com" 이게 링크를 나타내는 텍스트
+        - <a href="https://www.naver.com" target="_blank" 은 새로운 페이지로 이동   
     - ul로 li 리스트 태그를 감싸는 행위를 그룸핑 한다고 한다.
     - ol로 감싸게되면 앞에 숫자가 붙는다.
     - 웹 페이지 글자가 깨질 경우 인코딩 방법 지정 <meta charset="utf-8"
@@ -34,3 +34,16 @@
 
 - method
     - 내용을 숨기고 서버측에 넘기고 싶을 때는 post를 사용한다.
+
+- font
+    - 크기는 1 ~ 7까지 사이즈가 있고 default가 3이다.
+    - 시각적인 디자인일 뿐이지 TEXT에 대한 어떤 정보도 없어서 사용하지 않는 것을 지양해야 한다.
+
+- meta
+    - charset="utf-8"의 의미는 컴퓨터에 저장하는 방식은 utf-8로 저장한다는 의미이다.
+
+- 의미론적 태그
+    - header는 웹 페이지상에서 가장 중요하거나 의미있는 내용이 있는 영역이다. 기능적으로는 문제가 없다.
+    - footer는 사이트에 대해서 부가적인 내용이 들어가 있다.
+    - nav는 navigation 역할을 하는 것을 지정한다.
+    - article은 본문의 내용을 나타내는 것을 말한다.
