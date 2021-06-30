@@ -16,3 +16,7 @@
 
 - DOCTYPE
     - Document type declaration -> !DOCTYPE은 html5를 가르킨다.
+
+- TABLE
+    - table -> (thead -> tr -> th) - 진하게 표현 / (tbody -> tr -> td) / (tfoot -> tr -> td)
+    - 테이블을 병합할 때 행은 rowspan="칸수" , 열은 colspan="칸수"
