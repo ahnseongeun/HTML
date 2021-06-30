@@ -20,3 +20,14 @@
 - TABLE
     - table -> (thead -> tr -> th) - 진하게 표현 / (tbody -> tr -> td) / (tfoot -> tr -> td)
     - 테이블을 병합할 때 행은 rowspan="칸수" , 열은 colspan="칸수"
+
+- FORM
+    - form 태그는 입력한 정보를 어디로 보낼지 나타내는 정보이다.
+
+- RADIO
+    - radio버튼은 같은 name을 가지는 input끼리 그룹핑된다.
+    - checkbox를 이용하면 다중 선택이 가능하다.
+    - checked라는 태그를 적어주면 default로 선택되어서 화면이 보여진다.
+
+- hidden
+    - hidden 속성을 사용하면 사용자에게는 보이지 않지만 key : value 값으로 보이지 않는 값들이 서버로 전송된다.
